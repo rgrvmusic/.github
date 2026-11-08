@@ -1,5 +1,5 @@
-Regroove | RGRV
-===============
+Regroove | [RGRV](https://apps.rgrv.nl/rgrv)
+===================================
 
 Unique synthesizer engines and music integration tools, for Linux, Windows, Android, Amiga, Korg Logue, Ableton Move (Schwung) and more.
 
